@@ -1,0 +1,10 @@
+1. render a box with a question mark that you click
+    - black screen white box
+    - white screen orange box
+    - question mark 
+    - click it to next page
+
+2. list of projects / ideas I will create to LEARN
+    1. hhddhfhf
+    2. fhfhfhf
+    - each will be linked
