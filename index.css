@@ -20,7 +20,14 @@
   justify-content: space-between;
   align-items: flex-end;
   margin: 20px;
+}
 
+.bottom p {
+  font-size: 20px;
+}
+
+.bottom a p:hover {
+  color: purple;
 }
 
 .bottom button {
@@ -58,7 +65,7 @@
 }
 
 .menu p {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 #butt {
@@ -118,7 +125,7 @@
 
 #cont {
   color: grey;
-  padding-bottom: 10px;
+  /* padding-bottom: 10px; */
 }
 
 li {
